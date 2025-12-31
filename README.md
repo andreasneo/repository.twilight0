@@ -8,7 +8,7 @@
 * Go to "Addons"
 * In Addons, install an addon from zip.  When it asks for the location, select "Twilight0", and install
 
-<table><a href="repository.twilight0.zip">repository.twilight0.zip</a></table>
+<table><a href="repository.twilight0.zip">repository.twilight0.zip</a><a href="plugin.video.AliveGR-2.11.4.zip">plugin.video.AliveGR-2.11.4.zip</a></table>
 
 * Go back to Addons install, but this time, select "Install from repository"
 * Select the "Twilight0 Repository"
