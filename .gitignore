@@ -1,11 +1,5 @@
 *\.idea/
 
-*\.vscode/
-
-*.pyo
-
-*.pyc
-
 _tools/
 
 /context\.subtitles\.gr/
@@ -32,7 +26,7 @@ _tools/
 
 /service\.subtitles\.subtitles\.gr/
 
-/resource\.images\.greekvoice\.artwork/
+/script\.greekvoice\.artwork/
 
 /repository\.twilight0\.libs/
 
@@ -88,6 +82,8 @@ _tools/
 
 /resource\.images\.alivegr\.logos
 
-/plugin\.video\.megatv\.com
+/resource\.images\.greekvoice\.artwork/
+
+/weather\.gismeteo/
 
 plugin.video.alivegr.play/
