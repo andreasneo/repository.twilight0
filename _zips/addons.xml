@@ -153,37 +153,6 @@
         </extension>
 </addon>
 
-<addon id="plugin.video.alivegr.play" name="AliveGR Play" version="1.0" provider-name="Twilight0">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.resolveurl" version="5.1.84"/>
-        <import addon="script.module.resolveurl.pluginsgr" version="0.0.13"/>
-        <import addon="script.module.tulip" version="3.0.2"/>
-        <import addon="plugin.video.youtube" version="6.8.18"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-        <summary lang="en_GB">AliveGR Play addon</summary>
-        <summary lang="el_GR">Πρόσθετο AliveGR Play</summary>
-        <language>en el</language>
-        <license>GPL-3.0-only</license>
-        <forum>https://github.com/Twilight0/plugin.video.alivegr.play/issues</forum>
-        <source>https://github.com/Twilight0/plugin.video.alivegr.play</source>
-        <website>https://alivegr.net/</website>
-        <news>+ [COLOR green]Version 1.0[/COLOR] [I]10/12/2022[/I]
-
-Initial Version</news>
-        <assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.ert.gr" version="4.0.9" name="ERTflix" provider-name="Twilight0">
     <requires>
         <import addon="xbmc.addon" version="16.1.000"/>
